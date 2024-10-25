@@ -1,0 +1,29 @@
+# Node.js related files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment configuration files and sensitive information
+.env
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDE and editor related files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Log files
+logs/
+*.log
+~
+
+# Lock files
+*.lock
+
